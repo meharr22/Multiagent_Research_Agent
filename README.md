@@ -7,6 +7,9 @@ The system uses specialized AI agents and LangChain pipelines to
 transform a research topic into a structured research report with critic
 feedback.
 
+## Live Demo
+[Launch ResearchMind](https://multiagentresearchagent.streamlit.app/)
+
 ## Overview
 
 ResearchMind follows a four-stage research workflow:
